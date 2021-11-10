@@ -26,7 +26,9 @@ class _LandingPageState extends State<LandingPage> {
       );
     }
     else {
-      return HomePage();
+      return HomePage(
+        onSignOut: () => _updateUser(null),
+      );
     }
   }
 }
