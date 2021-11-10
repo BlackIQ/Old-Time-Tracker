@@ -3,10 +3,10 @@ import 'package:time_tracker_flutter_cource/common_widgets/custom_raised_button.
 
 class SignInButton extends CustomRaisedButton {
   SignInButton({
-    required String text,
-    required Color color,
-    required Color textColor,
-    required VoidCallback onPressed,
+    String text,
+    Color color,
+    Color textColor,
+    VoidCallback onPressed,
   }) : super(
     child: Text(
       text,
