@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "55169941690",
+    "project_id": "time-tracker-flutter-curce",
+    "storage_bucket": "time-tracker-flutter-curce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55169941690:android:5a501cb3dd17b6aed84283",
+        "android_client_info": {
+          "package_name": "ir.blackiq.time_tracker_flutter_cource.time_tracker_flutter_cource"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55169941690-tn1vhgi89snbrpp7m0k8uebubgihbg4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ir.blackiq.time_tracker_flutter_cource.time_tracker_flutter_cource",
+            "certificate_hash": "c893d2a085ad7f466b3d8cc3a315489e852544c1"
+          }
+        },
+        {
+          "client_id": "55169941690-329ih9kqfvh6grh4gp4u7fet1r5t723f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4kcJBj_Bvtz-8WzGpjajzd61U9c4Nl_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55169941690-329ih9kqfvh6grh4gp4u7fet1r5t723f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
